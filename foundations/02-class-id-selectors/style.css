@@ -1,0 +1,20 @@
+.pink-background{
+    color: black;
+    background-color: rgb(228, 148, 161);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#blue{
+    color: rgb(17, 17, 168);
+    font-size: 36px;
+}
+
+.third{
+    font-size: 24px;
+}
+
+#fourth{
+    background-color: rgb(115, 206, 115);
+    font-size: 24px;
+    font-weight: bold;
+}
